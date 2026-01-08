@@ -1,0 +1,9 @@
+name: TransferPlugin
+author: luxorigin
+version: 1.0.0
+api-version: 1.21
+main: net.luxorigin.TransferPlugin.TransferPlugin
+
+permissions:
+  transfer.command:
+    default: op
